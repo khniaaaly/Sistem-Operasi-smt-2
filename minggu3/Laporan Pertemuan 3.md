@@ -1,4 +1,4 @@
-# Laporan Pertemuan 2 (Sistem Operasi)
+# Laporan Pertemuan 3 (Sistem Operasi)
 
 <h4>Nama : Khaniaa Puji Auliya<h4>
 <h4>NIM : 254107020236<h4>
